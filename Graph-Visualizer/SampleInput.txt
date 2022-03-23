@@ -1,0 +1,91 @@
+// NODETEMPLATE DECLARATION MUST COME FIRST!
+// This nodetemplate will be used to create node prototypes to know how many params each node will have and such
+// This may be empty but it will mean that GraphNodes will only have a name and their GraphEdges
+// FORMAT:
+// NODETEMPLATE: <params>*
+// Sample: 
+// NODETEMPLATE: alpha beta value
+// this means that each node declaration expects three more parameters apart from the name, the parameters will be named alpha, beta, and value.
+// the parameters should be separated by a space.
+NODETEMPLATE: alpha beta value
+
+// NODE DECLARATIONS COME SECOND! 
+// These node declarations is where you declare the nodes that will be present in the graph
+// Each GraphNode must have a name!
+// FORMAT:
+// NODE: <name> <paramvalue1> <paramvalue2> <paramvalue3>...
+// The paramvalues stated here are dependent on the NODETEMPLATE, each paramvalue will be assigned to the corresponding param name based on the template.
+// Sample:
+// NODE: A 9999 -9999 21
+// the above example creates a GraphNode with the name "A" and param values alpha = "9999", beta = "-9999" and value = "21" note that all params are strings
+
+NODE: A Hello World 5
+NODE: B World Hello 2
+NODE: C Hello World 3
+NODE: D World Hello 1
+NODE: E Hello World 9
+NODE: F World Hello 8
+NODE: G Hello World 7
+
+// EDGETEMPLATE DECLARATIONS COME THIRD!
+// this edgetemplate will be used to create edgeprototypes, it has a similar function to the nodetemplate but in this case it defines the params for the edges.
+// FORMAT:
+// EDGETEMPLATE: <params>*
+// Sample: 
+// EDGETEMPLATE: pathCost
+EDGETEMPLATE: pathCost
+
+
+// CONNECTION DECLARATIONS COME FOURTH!
+// In this section, Edges will be spawned and connections between nodes will be defined, spawned edges will have a name of "<sourceNodeName><dstNodeName>"
+// which will be used to reference them later if the edges must be edited. After the definition of the type of connection of the edge, additional params
+// may be added separated by spaces. as defined by the edge template.
+// FORMAT:
+// <nodeName1><'=' or '>'><nodeName2>:<paramvalue1> <paramvalue2>...
+// SAMPLE:
+// A=B:10
+A=B:10
+B=C:20
+C=D:30
+B=D:40
+F=A:50
+G=F:40
+B=E:30
+
+// EDITS COME LAST!
+// In this section, you may re-declare nodes as in section 2 to edit their values. You may also edit edge params
+// NOTE: two-way edges are made up of two different one-way edges so to edit two way edges, you must edit both
+// i.e. AB and BA
+// FORMAT:
+// EDGE: <edgeName> <paramvalue1>*
+// SAMPLE:
+// EDGE: AB 35
+EDGE: AB 35
+EDGE: BA 45
+NODE: E Hello Edit 69
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

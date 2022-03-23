@@ -1,0 +1,1417 @@
+<State number = 0>
+<Nodes>
+<Node name = 'A'>
+	<outEdges>
+		<outEdge name = 'AB'>
+		<outEdge name = 'AC'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'B'>
+	<outEdges>
+		<outEdge name = 'BD'>
+		<outEdge name = 'BE'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'C'>
+	<outEdges>
+		<outEdge name = 'CF'>
+		<outEdge name = 'CG'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'D'>
+	<outEdges>
+		<outEdge name = 'DH'>
+		<outEdge name = 'DI'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'E'>
+	<outEdges>
+		<outEdge name = 'EJ'>
+		<outEdge name = 'EK'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'F'>
+	<outEdges>
+		<outEdge name = 'FL'>
+		<outEdge name = 'FM'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'G'>
+	<outEdges>
+		<outEdge name = 'GN'>
+		<outEdge name = 'GO'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'H'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-1'>
+	</Params>
+</Node>
+<Node name = 'I'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'J'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'K'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '1'>
+	</Params>
+</Node>
+<Node name = 'L'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-6'>
+	</Params>
+</Node>
+<Node name = 'M'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'N'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '0'>
+	</Params>
+</Node>
+<Node name = 'O'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '9'>
+	</Params>
+</Node></Nodes>
+<Edges>
+<Edge name = AB>
+	<srcNode value = 'A'>
+	<dstNode value = 'B'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = AC>
+	<srcNode value = 'A'>
+	<dstNode value = 'C'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BD>
+	<srcNode value = 'B'>
+	<dstNode value = 'D'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BE>
+	<srcNode value = 'B'>
+	<dstNode value = 'E'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CF>
+	<srcNode value = 'C'>
+	<dstNode value = 'F'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CG>
+	<srcNode value = 'C'>
+	<dstNode value = 'G'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DH>
+	<srcNode value = 'D'>
+	<dstNode value = 'H'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DI>
+	<srcNode value = 'D'>
+	<dstNode value = 'I'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EJ>
+	<srcNode value = 'E'>
+	<dstNode value = 'J'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EK>
+	<srcNode value = 'E'>
+	<dstNode value = 'K'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FL>
+	<srcNode value = 'F'>
+	<dstNode value = 'L'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FM>
+	<srcNode value = 'F'>
+	<dstNode value = 'M'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GN>
+	<srcNode value = 'G'>
+	<dstNode value = 'N'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GO>
+	<srcNode value = 'G'>
+	<dstNode value = 'O'>
+	<Params>
+	</Params>
+</Edge></Edges>
+</State><State number = 1>
+<Nodes>
+<Node name = 'A'>
+	<outEdges>
+		<outEdge name = 'AB'>
+		<outEdge name = 'AC'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'B'>
+	<outEdges>
+		<outEdge name = 'BD'>
+		<outEdge name = 'BE'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = '3'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'C'>
+	<outEdges>
+		<outEdge name = 'CF'>
+		<outEdge name = 'CG'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'D'>
+	<outEdges>
+		<outEdge name = 'DH'>
+		<outEdge name = 'DI'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'E'>
+	<outEdges>
+		<outEdge name = 'EJ'>
+		<outEdge name = 'EK'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '5'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'F'>
+	<outEdges>
+		<outEdge name = 'FL'>
+		<outEdge name = 'FM'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'G'>
+	<outEdges>
+		<outEdge name = 'GN'>
+		<outEdge name = 'GO'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'H'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-1'>
+	</Params>
+</Node>
+<Node name = 'I'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'J'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'K'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '1'>
+	</Params>
+</Node>
+<Node name = 'L'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-6'>
+	</Params>
+</Node>
+<Node name = 'M'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'N'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '0'>
+	</Params>
+</Node>
+<Node name = 'O'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '9'>
+	</Params>
+</Node></Nodes>
+<Edges>
+<Edge name = AB>
+	<srcNode value = 'A'>
+	<dstNode value = 'B'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = AC>
+	<srcNode value = 'A'>
+	<dstNode value = 'C'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BD>
+	<srcNode value = 'B'>
+	<dstNode value = 'D'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BE>
+	<srcNode value = 'B'>
+	<dstNode value = 'E'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CF>
+	<srcNode value = 'C'>
+	<dstNode value = 'F'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CG>
+	<srcNode value = 'C'>
+	<dstNode value = 'G'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DH>
+	<srcNode value = 'D'>
+	<dstNode value = 'H'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DI>
+	<srcNode value = 'D'>
+	<dstNode value = 'I'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EJ>
+	<srcNode value = 'E'>
+	<dstNode value = 'J'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EK>
+	<srcNode value = 'E'>
+	<dstNode value = 'K'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FL>
+	<srcNode value = 'F'>
+	<dstNode value = 'L'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FM>
+	<srcNode value = 'F'>
+	<dstNode value = 'M'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GN>
+	<srcNode value = 'G'>
+	<dstNode value = 'N'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GO>
+	<srcNode value = 'G'>
+	<dstNode value = 'O'>
+	<Params>
+	</Params>
+</Edge></Edges>
+</State><State number = 2>
+<Nodes>
+<Node name = 'A'>
+	<outEdges>
+		<outEdge name = 'AB'>
+		<outEdge name = 'AC'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'B'>
+	<outEdges>
+		<outEdge name = 'BD'>
+		<outEdge name = 'BE'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = '3'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'C'>
+	<outEdges>
+		<outEdge name = 'CF'>
+		<outEdge name = 'CG'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'D'>
+	<outEdges>
+		<outEdge name = 'DH'>
+		<outEdge name = 'DI'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'E'>
+	<outEdges>
+		<outEdge name = 'EJ'>
+		<outEdge name = 'EK'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '5'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'F'>
+	<outEdges>
+		<outEdge name = 'FL'>
+		<outEdge name = 'FM'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'G'>
+	<outEdges>
+		<outEdge name = 'GN'>
+		<outEdge name = 'GO'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'H'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-1'>
+	</Params>
+</Node>
+<Node name = 'I'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'J'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'K'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '1'>
+	</Params>
+</Node>
+<Node name = 'L'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-6'>
+	</Params>
+</Node>
+<Node name = 'M'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'N'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '0'>
+	</Params>
+</Node>
+<Node name = 'O'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '9'>
+	</Params>
+</Node></Nodes>
+<Edges>
+<Edge name = AB>
+	<srcNode value = 'A'>
+	<dstNode value = 'B'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = AC>
+	<srcNode value = 'A'>
+	<dstNode value = 'C'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BD>
+	<srcNode value = 'B'>
+	<dstNode value = 'D'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BE>
+	<srcNode value = 'B'>
+	<dstNode value = 'E'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CF>
+	<srcNode value = 'C'>
+	<dstNode value = 'F'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CG>
+	<srcNode value = 'C'>
+	<dstNode value = 'G'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DH>
+	<srcNode value = 'D'>
+	<dstNode value = 'H'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DI>
+	<srcNode value = 'D'>
+	<dstNode value = 'I'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EJ>
+	<srcNode value = 'E'>
+	<dstNode value = 'J'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EK>
+	<srcNode value = 'E'>
+	<dstNode value = 'K'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FL>
+	<srcNode value = 'F'>
+	<dstNode value = 'L'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FM>
+	<srcNode value = 'F'>
+	<dstNode value = 'M'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GN>
+	<srcNode value = 'G'>
+	<dstNode value = 'N'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GO>
+	<srcNode value = 'G'>
+	<dstNode value = 'O'>
+	<Params>
+	</Params>
+</Edge></Edges>
+</State><State number = 3>
+<Nodes>
+<Node name = 'A'>
+	<outEdges>
+		<outEdge name = 'AB'>
+		<outEdge name = 'AC'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'B'>
+	<outEdges>
+		<outEdge name = 'BD'>
+		<outEdge name = 'BE'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = '3'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'C'>
+	<outEdges>
+		<outEdge name = 'CF'>
+		<outEdge name = 'CG'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'D'>
+	<outEdges>
+		<outEdge name = 'DH'>
+		<outEdge name = 'DI'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'E'>
+	<outEdges>
+		<outEdge name = 'EJ'>
+		<outEdge name = 'EK'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '5'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'F'>
+	<outEdges>
+		<outEdge name = 'FL'>
+		<outEdge name = 'FM'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'G'>
+	<outEdges>
+		<outEdge name = 'GN'>
+		<outEdge name = 'GO'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'H'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-1'>
+	</Params>
+</Node>
+<Node name = 'I'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'J'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'K'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '1'>
+	</Params>
+</Node>
+<Node name = 'L'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-6'>
+	</Params>
+</Node>
+<Node name = 'M'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'N'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '0'>
+	</Params>
+</Node>
+<Node name = 'O'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '9'>
+	</Params>
+</Node></Nodes>
+<Edges>
+<Edge name = AB>
+	<srcNode value = 'A'>
+	<dstNode value = 'B'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = AC>
+	<srcNode value = 'A'>
+	<dstNode value = 'C'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BD>
+	<srcNode value = 'B'>
+	<dstNode value = 'D'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BE>
+	<srcNode value = 'B'>
+	<dstNode value = 'E'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CF>
+	<srcNode value = 'C'>
+	<dstNode value = 'F'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CG>
+	<srcNode value = 'C'>
+	<dstNode value = 'G'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DH>
+	<srcNode value = 'D'>
+	<dstNode value = 'H'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DI>
+	<srcNode value = 'D'>
+	<dstNode value = 'I'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EJ>
+	<srcNode value = 'E'>
+	<dstNode value = 'J'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EK>
+	<srcNode value = 'E'>
+	<dstNode value = 'K'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FL>
+	<srcNode value = 'F'>
+	<dstNode value = 'L'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FM>
+	<srcNode value = 'F'>
+	<dstNode value = 'M'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GN>
+	<srcNode value = 'G'>
+	<dstNode value = 'N'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GO>
+	<srcNode value = 'G'>
+	<dstNode value = 'O'>
+	<Params>
+	</Params>
+</Edge></Edges>
+</State><State number = 4>
+<Nodes>
+<Node name = 'A'>
+	<outEdges>
+		<outEdge name = 'AB'>
+		<outEdge name = 'AC'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'B'>
+	<outEdges>
+		<outEdge name = 'BD'>
+		<outEdge name = 'BE'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = '3'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'C'>
+	<outEdges>
+		<outEdge name = 'CF'>
+		<outEdge name = 'CG'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = '-4'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'D'>
+	<outEdges>
+		<outEdge name = 'DH'>
+		<outEdge name = 'DI'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'E'>
+	<outEdges>
+		<outEdge name = 'EJ'>
+		<outEdge name = 'EK'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '5'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'F'>
+	<outEdges>
+		<outEdge name = 'FL'>
+		<outEdge name = 'FM'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'G'>
+	<outEdges>
+		<outEdge name = 'GN'>
+		<outEdge name = 'GO'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'H'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-1'>
+	</Params>
+</Node>
+<Node name = 'I'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'J'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'K'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '1'>
+	</Params>
+</Node>
+<Node name = 'L'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-6'>
+	</Params>
+</Node>
+<Node name = 'M'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'N'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '0'>
+	</Params>
+</Node>
+<Node name = 'O'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '9'>
+	</Params>
+</Node></Nodes>
+<Edges>
+<Edge name = AB>
+	<srcNode value = 'A'>
+	<dstNode value = 'B'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = AC>
+	<srcNode value = 'A'>
+	<dstNode value = 'C'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BD>
+	<srcNode value = 'B'>
+	<dstNode value = 'D'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BE>
+	<srcNode value = 'B'>
+	<dstNode value = 'E'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CF>
+	<srcNode value = 'C'>
+	<dstNode value = 'F'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CG>
+	<srcNode value = 'C'>
+	<dstNode value = 'G'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DH>
+	<srcNode value = 'D'>
+	<dstNode value = 'H'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DI>
+	<srcNode value = 'D'>
+	<dstNode value = 'I'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EJ>
+	<srcNode value = 'E'>
+	<dstNode value = 'J'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EK>
+	<srcNode value = 'E'>
+	<dstNode value = 'K'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FL>
+	<srcNode value = 'F'>
+	<dstNode value = 'L'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FM>
+	<srcNode value = 'F'>
+	<dstNode value = 'M'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GN>
+	<srcNode value = 'G'>
+	<dstNode value = 'N'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GO>
+	<srcNode value = 'G'>
+	<dstNode value = 'O'>
+	<Params>
+	</Params>
+</Edge></Edges>
+</State><State number = 5>
+<Nodes>
+<Node name = 'A'>
+	<outEdges>
+		<outEdge name = 'AB'>
+		<outEdge name = 'AC'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'B'>
+	<outEdges>
+		<outEdge name = 'BD'>
+		<outEdge name = 'BE'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = '3'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'C'>
+	<outEdges>
+		<outEdge name = 'CF'>
+		<outEdge name = 'CG'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = '-4'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'D'>
+	<outEdges>
+		<outEdge name = 'DH'>
+		<outEdge name = 'DI'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'E'>
+	<outEdges>
+		<outEdge name = 'EJ'>
+		<outEdge name = 'EK'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '5'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'F'>
+	<outEdges>
+		<outEdge name = 'FL'>
+		<outEdge name = 'FM'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '3'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'G'>
+	<outEdges>
+		<outEdge name = 'GN'>
+		<outEdge name = 'GO'>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = 'None'>
+		<param name = 'beta' value = 'None'>
+		<param name = 'value' value = 'None'>
+	</Params>
+</Node>
+<Node name = 'H'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-1'>
+	</Params>
+</Node>
+<Node name = 'I'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '3'>
+	</Params>
+</Node>
+<Node name = 'J'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '5'>
+	</Params>
+</Node>
+<Node name = 'K'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '1'>
+	</Params>
+</Node>
+<Node name = 'L'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-6'>
+	</Params>
+</Node>
+<Node name = 'M'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '-4'>
+	</Params>
+</Node>
+<Node name = 'N'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '0'>
+	</Params>
+</Node>
+<Node name = 'O'>
+	<outEdges>
+	</outEdges>
+	<Params>
+		<param name = 'alpha' value = '-'>
+		<param name = 'beta' value = '-'>
+		<param name = 'value' value = '9'>
+	</Params>
+</Node></Nodes>
+<Edges>
+<Edge name = AB>
+	<srcNode value = 'A'>
+	<dstNode value = 'B'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = AC>
+	<srcNode value = 'A'>
+	<dstNode value = 'C'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BD>
+	<srcNode value = 'B'>
+	<dstNode value = 'D'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = BE>
+	<srcNode value = 'B'>
+	<dstNode value = 'E'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CF>
+	<srcNode value = 'C'>
+	<dstNode value = 'F'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = CG>
+	<srcNode value = 'C'>
+	<dstNode value = 'G'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DH>
+	<srcNode value = 'D'>
+	<dstNode value = 'H'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = DI>
+	<srcNode value = 'D'>
+	<dstNode value = 'I'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EJ>
+	<srcNode value = 'E'>
+	<dstNode value = 'J'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = EK>
+	<srcNode value = 'E'>
+	<dstNode value = 'K'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FL>
+	<srcNode value = 'F'>
+	<dstNode value = 'L'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = FM>
+	<srcNode value = 'F'>
+	<dstNode value = 'M'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GN>
+	<srcNode value = 'G'>
+	<dstNode value = 'N'>
+	<Params>
+	</Params>
+</Edge>
+<Edge name = GO>
+	<srcNode value = 'G'>
+	<dstNode value = 'O'>
+	<Params>
+	</Params>
+</Edge></Edges>
+</State>

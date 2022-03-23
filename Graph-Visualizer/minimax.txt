@@ -1,0 +1,35 @@
+NODETEMPLATE: alpha beta value
+
+NODE: A 
+NODE: B
+NODE: C
+NODE: D
+NODE: E
+NODE: F
+NODE: G
+NODE: H - - -1
+NODE: I - - 3
+NODE: J - - 5
+NODE: K - - 1
+NODE: L - - -6
+NODE: M - - -4
+NODE: N - - 0 
+NODE: O - - 9
+
+EDGETEMPLATE:
+
+A>B:
+A>C:
+B>D:
+B>E:
+C>F:
+C>G:
+D>H:
+D>I:
+E>J:
+E>K:
+F>L:
+F>M:
+G>N:
+G>O:
+
